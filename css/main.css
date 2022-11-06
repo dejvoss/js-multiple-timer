@@ -72,3 +72,9 @@ body{
     margin: 4px 2px;
     width: 100px;
   }
+
+  .timerButton:hover {
+    background-color: white;
+    color: #6745c2;
+    border: solid 0.5px #6745c2;
+  }
